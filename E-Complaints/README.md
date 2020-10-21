@@ -90,9 +90,9 @@ Give a ⭐️ if you like the project!
 ## 👤 Author
 
 - Website: <https://abhishekdoifode1.github.io/text-to-handwriting>
-- Twitter: [@adarshatweets](https://twitter.com/abhi_doifode)
-- Github: [@adarshaacharya](https://github.com/abhishekdoifode1)
-- LinkedIn: [@adarshaacharya](https://linkedin.com/in/abhishekdoifode)
+- Twitter: [@abhi_doifode](https://twitter.com/abhi_doifode)
+- Github: [@abhishekdoifode1](https://github.com/abhishekdoifode1)
+- LinkedIn: [@AbhishekDoifode](https://linkedin.com/in/abhishekdoifode)
 
 ## 📝 License
 
