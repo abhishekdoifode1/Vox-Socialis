@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://e-complaints.com/">
-<img src="https://raw.githubusercontent.com/abhishekdoifode1/HackerEarth/E-Complaints/master/docs/github_cover.png" alt="github_cover" />
+<img src="https://github.com/abhishekdoifode1/HackerEarth/blob/main/E-Complaints/docs/github_cover.png" alt="" />
 
 </a>
 </p>
