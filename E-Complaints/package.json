@@ -15,7 +15,7 @@
     "lint": "eslint . --ext .js",
     "lint:fix": "eslint . --ext .js --fix"
   },
-  "author": "Aadarsha",
+  "author": "Abhishek Doifode",
   "license": "ISC",
   "husky": {
     "hooks": {
