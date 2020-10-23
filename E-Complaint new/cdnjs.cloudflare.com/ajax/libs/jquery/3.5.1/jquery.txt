@@ -1,1 +1,0 @@
-create 'jquery' folder
