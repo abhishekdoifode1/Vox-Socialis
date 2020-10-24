@@ -1,1 +1,1 @@
-img
+create 'images' folder
