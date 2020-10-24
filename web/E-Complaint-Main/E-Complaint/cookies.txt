@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+e-complaints.herokuapp.com	TRUE	/	FALSE	1999999999	connect.sid	s%3A7l0tMpF4VVrTTtETQXVD9t1DY-Be4qYa.fk07kltEPmpsioHECyWK3jAy6OihK3S9rNJzVu4TCIA
+.cdnjs.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	d03ddcb79cdcf634a380373e53add63631603339848
+cdnjs.cloudflare.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
